@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="CpuPowerRegulator">
+    <file>icon/gafield.png</file>
+    <file>icon/information-512x512.png</file>
+    <file>icon/frequency-64x64.png</file>
+  </qresource>
+</RCC>
