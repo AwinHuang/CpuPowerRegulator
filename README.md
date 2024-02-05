@@ -1,6 +1,10 @@
 
-![](image/CpuPowerRegulator.png)
-![](image/Maximum%20Processor%20State.png)
+<table border="0">
+    <tr>
+        <td><img src="image/CpuPowerRegulator.png" width="320"></td>
+        <td><img src="image/Maximum%20Processor%20State.png" width="320"></td>
+    </tr>
+</table>
 
 ## Introduction:
 
